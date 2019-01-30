@@ -1,0 +1,35 @@
+table th{
+    text-align: right;
+    width: 150px;
+    height: 7rem;
+}
+
+table td{
+    padding:20px
+}
+
+#name, #address, textarea{
+    width: 480px;
+}
+
+.button{
+    font-size: 2rem;
+    position: relative;
+    left: 300px;
+}
+
+.button :hover {
+    background-color:gray;
+    color: white;
+}
+
+.button1{
+    background-color: black;
+    color: white;
+    padding: 1rem 2rem;
+    font-weight: bold;
+    box-shadow: 2px 2px 3px 1px #666;
+    border-radius: 5px;
+}
+
+
